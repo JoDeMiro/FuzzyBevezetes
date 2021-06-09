@@ -20,7 +20,8 @@ A program használatához nem szükséges semmit sem telepíteni.
 A fenti 'Google Colab' ikonra kattintva a Google Colab oldalán automatikusan megnyilik a
 program.
 
-
+<!--
 <img src="https://github.com/JoDeMiro/FuzzyLogic/blob/main/FuzzyLogicDemo.png?raw=true"></img>
 
 <img src="https://github.com/JoDeMiro/FuzzyLogic/blob/main/FuzzyLogicDemo.gif?raw=true" width="683" height="558"></img>
+-->
