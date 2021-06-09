@@ -1,5 +1,5 @@
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoDeMiro/FuzzyBevezetes/blob/master)
 
 # Jupyter Notebook
 A program használatához nem szükséges semmit sem telepíteni.
